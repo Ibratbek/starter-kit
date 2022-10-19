@@ -1,1 +1,1 @@
-console.log(sacasca/ 0);
+console.log(p/ 0);
